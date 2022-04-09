@@ -1,0 +1,12 @@
+[('g2', '?CANCEL'), ('add0', 'tau'), ('g0', '?COIN'), ('g1', '!GOOD'), ('g2', '?SODA')]
+COIN
+GOOD
+CANCEL
+tau
+COIN
+GOOD
+TEST SUCCEEDS
+[('g0', '?COIN'), ('g1', '!BAD'), ('g0', '?COIN')]
+COIN
+BAD
+TEST SUCCEEDS
